@@ -25,7 +25,7 @@ int main() {
    int num1;
    int num2;
    int i;
-   
+   cout << "Input 2 numbers, sepearated by a space or newline: " << endl;
    cin >> num1;
    cin >> num2;
    
