@@ -14,7 +14,7 @@ Ex: If the input is:
 50.0 100.0 0.02
 the output is:
 
-1 payment
+1 payment  
 */
 
 /*
